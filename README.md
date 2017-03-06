@@ -2,7 +2,7 @@
 
 Redis-driven PhantomJS.
 
-<img src="https://raw.githubusercontent.com/evanx/rescrape/master/docs/readme/main.png"/>
+<!--img src="https://raw.githubusercontent.com/evanx/rescrape/master/docs/readme/main.png"/-->
 
 ## Use case
 
